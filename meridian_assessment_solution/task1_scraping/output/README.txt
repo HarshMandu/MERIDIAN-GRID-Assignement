@@ -1,0 +1,1 @@
+Run scrape_all.py to populate one JSON file per site. This folder intentionally contains no fabricated live results.

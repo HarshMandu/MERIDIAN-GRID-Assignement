@@ -1,0 +1,26 @@
+{
+  "1": {
+    "answer": "INC-003, caused by a misconfigured firewall rule during VPN migration; on-call engineer Meera Iyer.",
+    "source": "Dossier Section 4"
+  },
+  "2": {
+    "answer": "CloudSentry API; annual contract cost INR 48,00,000.",
+    "source": "Dossier Section 7; audit finding in Section 8"
+  },
+  "3": {
+    "answer": "Vantage Retail Group; monthly revenue INR 6,75,000.",
+    "source": "Dossier Sections 4 and 5"
+  },
+  "4": {
+    "answer": "Naina Kapoor; from April 2019 to August 2021, approximately 2 years and 4 months.",
+    "source": "Dossier Section 3.1 and Section 2"
+  },
+  "5": {
+    "answer": "INC-001 High: INR 22,50,000 × 2.0 = INR 45,00,000; INC-003 Critical: INR 61,00,000 × 4.0 = INR 2,44,00,000; INC-005 Low: INR 1,10,000 × 1.0 = INR 1,10,000. Total severity-weighted cost = INR 2,90,10,000.",
+    "source": "Dossier Sections 4 and 6"
+  },
+  "6": {
+    "answer": "Renewal date: 15 March 2025. Approval: CEO Aarav Mehta must sign off because the renewal exceeds the prior year's value; the Head of Finance & Operations may execute it after approval.",
+    "source": "Scanned Appendix B memo image"
+  }
+}
